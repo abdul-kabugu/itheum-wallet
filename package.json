@@ -27,6 +27,10 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "@multiversx/sdk-dapp": "^2.21.1",
+    "@multiversx/sdk-extension-provider": "^3.0.0",
+    "@multiversx/sdk-network-providers": "^2.0.0",
+    "@multiversx/sdk-web-wallet-provider": "^3.1.0",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "react-router-dom": "6.2",
